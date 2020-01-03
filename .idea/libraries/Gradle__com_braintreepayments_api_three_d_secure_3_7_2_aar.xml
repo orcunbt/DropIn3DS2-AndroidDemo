@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.braintreepayments.api:three-d-secure:3.7.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8b2b9fea85d5013a582410586d9910a2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8b2b9fea85d5013a582410586d9910a2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/three-d-secure/3.7.2/5285e7dd017a722635f36e11063d08279893b7c6/three-d-secure-3.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
